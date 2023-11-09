@@ -65,7 +65,7 @@ const Navbar = () => {
               >
                 <li className="nav-item">
                   <a className="">
-                    <span className="text-md lg:text-lg  ">NOSOTROS</span>
+                    <span className="text-md lg:text-lg  ">diego ortiz</span>
                   </a>
                 </li>
               </NavLink>
