@@ -1,5 +1,5 @@
 import React from "react";
-import Valuna from "../../assets/imgs/logo/Valuna.png";
+import DOM from "../../assets/imgs/logo/logo_dom.jpeg";
 import Carousel from "../utils/Carousel/Carousel";
 
 const NosotrosComponent = () => {
@@ -9,11 +9,11 @@ const NosotrosComponent = () => {
         <div class="container m-auto px-6 text-gray-600 md:px-12 xl:px-6 ">
           <div class="space-y-6 md:space-y-0 md:flex md:gap-6 lg:items-center lg:gap-12 ">
             <div class="md:5/12 lg:w-5/12">
-              <img src={Valuna} alt="image" className="w-2/3" loading="lazy" />
+              <img src={DOM} alt="image" className="w-2/3" loading="lazy" />
             </div>
             <div class="md:7/12 lg:w-6/12 border rounded-xl border-blue-600 p-4">
               <h2 class="text-2xl text-blue-600 font-bold md:text-4xl ">
-                En Valunas Construcciones estamos para ayudarte.
+                En DOMs Construcciones estamos para ayudarte.
               </h2>
               <p class="mt-6 text-gray-800">
                 Somos una pequeña empresa que brindamos servicios de

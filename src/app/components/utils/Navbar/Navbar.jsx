@@ -1,6 +1,6 @@
 import React from "react";
 import { Link, NavLink } from "react-router-dom";
-import Valuna from "../../../assets/imgs/logo/Valuna.png";
+import DOM from "../../../assets/imgs/logo/logo_dom.jpeg";
 
 const Navbar = () => {
   const [navbarOpen, setNavbarOpen] = React.useState(false);
@@ -9,7 +9,7 @@ const Navbar = () => {
       <nav className="relative flex flex-wrap items-center justify-between px-2 py-1 bg-white mb-3 drop-shadow-md shadow-blue-300">
         <div className="container px-4 mx-auto flex flex-wrap items-center justify-between">
           <div className="w-full relative flex justify-between lg:w-auto lg:static lg:block lg:justify-start">
-            <img className="h-14 w-16 md:h-20 md:w-24" src={Valuna} alt="" />
+            <img className="h-14 w-16 md:h-20 md:w-24" src={DOM} alt="" />
             <button
               className="text-white  cursor-pointer text-xl leading-none px-3 py-1 border border-solid border-transparent rounded bg-transparent block lg:hidden outline-none focus:outline-none"
               type="button"
