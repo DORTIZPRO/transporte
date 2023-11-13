@@ -2,7 +2,7 @@ import React from "react";
 
 const CardContacto = () => {
   function openWhatsAppChat() {
-    window.open("https://wa.me/56937409813");
+    window.open("https://wa.me/56953729674");
   }
   return (
     <>
@@ -60,7 +60,7 @@ const CardContacto = () => {
                         <path d="M1.5 8.67v8.58a3 3 0 003 3h15a3 3 0 003-3V8.67l-8.928 5.493a3 3 0 01-3.144 0L1.5 8.67z" />
                         <path d="M22.5 6.908V6.75a3 3 0 00-3-3h-15a3 3 0 00-3 3v.158l9.714 5.978a1.5 1.5 0 001.572 0L22.5 6.908z" />
                       </svg>
-                      valunasconstrucciones@gmail.com
+                      cotizar@transportesdom.cl
                     </li>
                   </ul>
                 </div>
@@ -89,7 +89,8 @@ const CardContacto = () => {
             </div>
             <div class="w-full rounded-lg flex flex-col justify-center items-center">
               <iframe
-                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1665.362416661214!2d-70.69979917388784!3d-33.4043423873159!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9662c6a408387537%3A0xf479d4b149986005!2sUno%20Sur%203915%2C%20Renca%2C%20Regi%C3%B3n%20Metropolitana!5e0!3m2!1ses-419!2scl!4v1679933485081!5m2!1ses-419!2scl"
+                // src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1665.362416661214!2d-70.69979917388784!3d-33.4043423873159!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9662c6a408387537%3A0xf479d4b149986005!2sUno%20Sur%203915%2C%20Renca%2C%20Regi%C3%B3n%20Metropolitana!5e0!3m2!1ses-419!2scl!4v1679933485081!5m2!1ses-419!2scl"
+                src="https://maps.google.com/maps?q=providencia%201208,%20providencia&amp;t=&amp;z=15&amp;ie=UTF8&amp;iwloc=&amp;output=embed"
                 allowFullScreen
                 className="w-full h-80 md:h-128 rounded-lg p-0"
                 loading="lazy"
