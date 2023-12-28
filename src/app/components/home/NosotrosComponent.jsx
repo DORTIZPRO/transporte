@@ -13,22 +13,24 @@ const NosotrosComponent = () => {
             </div>
             <div class="md:7/12 lg:w-6/12 border rounded-xl border-blue-600 p-4">
               <h2 class="text-2xl text-blue-600 font-bold md:text-4xl ">
-                En DOMs Construcciones estamos para ayudarte.
+                Bienvenido a Transportes DOM
               </h2>
               <p class="mt-6 text-gray-800">
-                Somos una pequeña empresa que brindamos servicios de
-                construcción de alta calidad, nos hemos ganado la confianza de
-                nuestros clientes por el profesionalismo y el detalle en cada
-                uno de nuestros servicios.
+                En Transportes DOM, nos enorgullece ofrecer soluciones de
+                transporte confiables y eficientes para tus necesidades de
+                fletes y mudanzas. Con una sólida presencia tanto dentro como
+                fuera de la Región Metropolitana, nos dedicamos a simplificar
+                tus procesos de traslado, brindándote tranquilidad y confianza
+                en cada servicio.
               </p>
+              <h4 class="text-2xl text-blue-600 font-bold md:text-4xl ">
+                Nuestra Misión:
+              </h4>
               <p class="mt-4 text-gray-800">
-                {" "}
-                Nos esforzamos por utilizar los mejores materiales y las mejores
-                técnicas de construcción, y trabajamos arduamente para completar
-                cada proyecto en el tiempo y presupuesto acordados. Estamos
-                comprometidos con la satisfacción total de nuestros clientes, y
-                trabajamos duro para garantizar que cada servicio de
-                construcción se ajuste a sus necesidades y expectativas.
+                Facilitar tus mudanzas y fletes, brindando servicios de calidad
+                que superen tus expectativas. Nos esforzamos por ser tu socio
+                confiable en el transporte, proporcionando soluciones adaptadas
+                a tus necesidades específicas.
               </p>
             </div>
           </div>
