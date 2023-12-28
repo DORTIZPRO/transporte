@@ -9,7 +9,7 @@ import Servicios from "./app/pages/Servicios";
 function App() {
   return (
     <>
-      {/* <Navbar /> */}
+      <Navbar />
       <Outlet />
       <Routes>
         <Route path="" element={<Home />} />
