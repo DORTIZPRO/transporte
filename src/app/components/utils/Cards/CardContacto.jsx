@@ -33,7 +33,7 @@ const CardContacto = () => {
                           clipRule="evenodd"
                         />
                       </svg>
-                      +569 37409813
+                      +569 53729674
                     </li>
                     <div className="w-full">
                       <button
@@ -81,7 +81,7 @@ const CardContacto = () => {
                           clipRule="evenodd"
                         />
                       </svg>
-                      Uno sur 3915, Renca.
+                      Providencia 1208, Providencia
                     </li>
                   </ul>
                 </div>

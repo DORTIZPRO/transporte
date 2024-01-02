@@ -53,7 +53,7 @@ const CardDataHome = () => {
                     clip-rule="evenodd"
                   />
                 </svg>
-                +569 37409813
+                +569 53729674
               </li>
               <li className="text-sm md:text-md uppercase font-semibold md:font-medium my-2 w-full inline-flex">
                 <svg
@@ -65,7 +65,7 @@ const CardDataHome = () => {
                   <path d="M1.5 8.67v8.58a3 3 0 003 3h15a3 3 0 003-3V8.67l-8.928 5.493a3 3 0 01-3.144 0L1.5 8.67z" />
                   <path d="M22.5 6.908V6.75a3 3 0 00-3-3h-15a3 3 0 00-3 3v.158l9.714 5.978a1.5 1.5 0 001.572 0L22.5 6.908z" />
                 </svg>
-                valunasconstrucciones@gmail.com
+                cotizar@transportesdom.cl
               </li>
               <li className="text-sm md:text-xl uppercase font-semibold md:font-medium my-2 w-full inline-flex">
                 <svg
@@ -80,7 +80,7 @@ const CardDataHome = () => {
                     clip-rule="evenodd"
                   />
                 </svg>
-                Uno sur 3915, Renca.
+                Providencia 1208, Providencia
               </li>
             </ul>
           </div>
