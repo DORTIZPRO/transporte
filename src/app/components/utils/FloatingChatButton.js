@@ -1,5 +1,6 @@
 // FloatingChatButton.js
 import React from "react";
+import Logo from "./wtp.png"; // Importa la imagen
 
 const FloatingChatButton = ({ number }) => {
   const openWhatsApp = () => {
@@ -13,23 +14,18 @@ const FloatingChatButton = ({ number }) => {
         position: "fixed",
         bottom: "20px",
         right: "20px",
-        backgroundColor: "#25d366", // Color de fondo de WhatsApp
-        padding: "10px",
-        borderRadius: "50%",
-        boxShadow: "0 2px 5px rgba(0, 0, 0, 0.2)",
         cursor: "pointer",
         display: "flex",
         alignItems: "center",
-        justifyContent: "center",
       }}
       onClick={openWhatsApp}
     >
       <img
-        src="wtp.png" // Reemplaza con la ruta de tu propio logo
+        src={Logo} // Usa la variable que contiene la ruta de la imagen
         alt="WhatsApp"
-        style={{ width: "30px", height: "30px" }}
+        style={{ width: "50px", height: "50px", marginRight: "5px" }}
       />
-      <span style={{ marginLeft: "5px", fontSize: "14px", color: "#fff" }}>
+      <span style={{ fontSize: "14px", color: "#333" }}>
         ¿En qué te podemos ayudar?
       </span>
     </div>
